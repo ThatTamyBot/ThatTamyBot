@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatTamyBot
 - 👀 I’m interested in Developing open source alternatives to paid projects
-- 🌱 I’m currently learning html-css-js-react
+- 🌱 I’m currently learning react-reason-elixir
 - 📫 How to reach me: github
 
 <!---
